@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SettingItemView">
+        <attr name="title_text" format="string" />
+        <attr name="context_text" format="string" />
+        <attr name="src" format="reference|color" />
+    </declare-styleable>
+
+</resources>
